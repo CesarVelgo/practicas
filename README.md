@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo predecir la calidad del vino utilizando técni
 3. Ejecuta los notebooks en orden.
 
 ## Autores
-- Nombre del autor: Rol (ejemplo: Juan Pérez: Científico de Datos)
+- Nombre del autor: COVG
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
