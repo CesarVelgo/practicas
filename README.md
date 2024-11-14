@@ -8,3 +8,14 @@ Este proyecto tiene como objetivo predecir la calidad del vino utilizando técni
 - `/notebooks`: Incluye notebooks para EDA y modelos.
 - `/reports`: Almacena informes generados.
 - `/presentation`: Presentación final.
+
+## Instrucciones para Ejecutar
+1. Clona el repositorio.
+2. Instala las dependencias necesarias.
+3. Ejecuta los notebooks en orden.
+
+## Autores
+- Nombre del autor: Rol (ejemplo: Juan Pérez: Científico de Datos)
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.
